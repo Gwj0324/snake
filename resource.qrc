@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/back2.jpg</file>
+        <file>image/over.jpg</file>
+        <file>image/music.mp3</file>
+        <file>image/music.wav</file>
+        <file>image/love1.ico</file>
+        <file>image/music_image.jpg</file>
+        <file>image/music_close.png</file>
+        <file>image/music_open.png</file>
+        <file>image/dialog_back.png</file>
+        <file>image/love1.jpg</file>
+    </qresource>
+</RCC>
